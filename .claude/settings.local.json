@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(mysql:*)",
+      "Bash(cat:*)",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}
