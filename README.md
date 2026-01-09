@@ -109,7 +109,7 @@ Frontend akan berjalan di `http://localhost:3000`
 ## Struktur Project
 
 ```
-testreact/
+sewabukuexpressreact/
 ├── backend/
 │   ├── config/
 │   │   └── database-mysql.js
